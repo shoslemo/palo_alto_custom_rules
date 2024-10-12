@@ -1,6 +1,7 @@
 # palo_alto_custom_rules
 Script for converting Suricata signatures to Palo Alto XML.
 
+The script pulls signatures from a repository and converts them. The default repository is https://rules.emergingthreats.net/open/suricata/rules/ but others should work also.
 
 Trying to create a script for converting Suricata voulnerabilities into Palo Alto signatures. 
 When Palo ALto makes it nearly impossible to get licenses for their products, this is the only way one can actually utilize the firewalls full capabilities. 
